@@ -1,0 +1,123 @@
+h1{ color:aliceblue; 
+    font-size: 50px; 
+    background-color:rgb(0, 0, 0); 
+    border: 30px solid rgb(196, 0, 0); 
+    text-align: center; display:inline-block;animation-name: hola ; animation-duration:5s; animation-direction:ALTERNATE; animation-iteration-count:infinite;}
+
+    @keyframes hola {
+       from{
+          color: gold;
+ transform: rotate(20deg);
+ font-size: 60px;
+       }
+ 
+       to{
+          color:black;
+          font-size: 80px;
+          transform: scale(30deg);
+       }
+       
+    }
+
+    body{ background-image: url(walls/Foto25.jpg);
+        text-align: center;
+        font-size: large;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       color: rgb(36, 36, 139);
+   font-style: oblique;
+         background-attachment: local;
+       align-items: center;}
+
+   table{ border-color: black; 
+    background-color: black;
+          justify-content: center;
+        align-items: center;}
+
+        .Parrafo1{font-size: large; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+           color: black;}
+        .Parrafo2{font-size: large; 
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+           color: rgb(255, 0, 0);}
+        .Parrafo3{font-size: large; 
+            font-family: 'Courier New', Courier, monospace;
+            text-align: center;
+           color: black;}
+        .Parrafo4{font-size: large; 
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            text-align: center;
+           color: rgb(251, 146, 0);}
+        .Parrafo5{font-size: large; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+           color: black;}
+        .Parrafo6{font-size: large; 
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            text-align: center;
+           color: rgb(0, 101, 173);}
+        .Parrafo7{font-size: large; 
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-align: center;
+           color: black;}
+        .Parrafo8{font-size: large; 
+            font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+            text-align: center;
+           color: rgb(0, 145, 19);}
+        .Parrafo9{font-size: large; 
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            text-align: center;
+           color: black;}
+        .Parrafo10{font-size: large; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+           color: rgb(0, 158, 3);}
+        .Parrafo11{font-size: large; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+           color: black;}
+        .Parrafo12{font-size: large; 
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+           color: rgb(0, 13, 158);}
+        .Parrafo13{font-size: large; 
+            font-family: 'Times New Roman', Times, serif;
+            text-align: center;
+           color: black;}
+        .Parrafo14{font-size: large; 
+            font-family: monospace;
+            text-align: center;
+           color: rgb(92, 0, 158);}
+        .Parrafo15{font-size: large; 
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            text-align: center;
+           color: black;}
+        .Parrafo16{font-size: large; 
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+           color: rgb(158, 0, 100);}
+        .Parrafo17{font-size: large; 
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+           color: black;}
+        .Parrafo18{font-size: large; 
+            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            text-align: center;
+           color: rgb(158, 0, 3);}
+        .Parrafo19{font-size: large; 
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+           color: black;}
+        .Parrafo20{font-size: large; 
+            font-family: cursive;
+            text-align: center;
+           color: rgb(0, 0, 0);}
+
+        tr{background-color: white;}
+   
+
+    table{ border-color: black; background-color: black;}
+   
+h2{ WIDTH:"10PX" ; HEIGHT:"50PX" 
+}

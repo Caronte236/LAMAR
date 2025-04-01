@@ -1,0 +1,146 @@
+h1{ color:aliceblue; 
+    font-size: 50px; 
+    background-color:rgb(114, 39, 4); 
+    border: 30px solid rgb(71, 199, 186); 
+    text-align: center;display:inline-block;animation-name: hola ; animation-duration:5s; animation-direction:ALTERNATE; animation-iteration-count:infinite;}
+
+    @keyframes hola {
+       from{
+          color: gold;
+ transform: rotate(20deg);
+ font-size: 60px;
+       }
+ 
+       to{
+          color:black;
+          font-size: 80px;
+          transform: scale(30deg);
+       }
+       
+    }
+    
+    body{ background-color: rgb(19, 3, 65);
+         text-align: center;
+         font-size: large;
+         font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        color: rgb(196, 23, 23);
+    font-style: oblique;
+          background-attachment: local;
+        align-items: center;}
+
+   table{ border-color: rgba(0, 0, 0, 0.601); 
+    border-width: 45px;
+    background-color: rgb(255, 255, 255);
+          justify-content: center;
+        align-items: center;}
+
+        .Parrafo-1{font-size: large; 
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+           color: rgb(0, 61, 80);}
+        .Parrafo0{font-size: large; 
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+           color: rgb(95, 0, 0);}
+        .Parrafo1{font-size: large; 
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+           color: rgb(0, 54, 7);}
+        .Parrafounmedio{font-size: large; 
+            font-family: monospace;
+            text-align: center;
+           color: rgb(75, 77, 0);}
+        .Parrafo2{font-size: large; 
+            font-family: initial;
+            text-align: center;
+           color: rgb(131, 7, 65);}
+        .Parrafomedio{font-size: large; 
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            text-align: center;
+           color: rgb(10, 146, 62);}
+        .Parrafo3{font-size: large; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+           color: rgb(156, 0, 177);
+          font-weight: 200;}
+        .Parrafo4{font-size: large; 
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+           color: rgb(150, 60, 9);
+          font-weight: 150;}
+        .Parrafo5{font-size: large; 
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            text-align: center;
+           color: rgb(33, 74, 87);
+          font-weight: 180;}
+        .Parrafo6{font-size: large; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+           color: rgb(0, 0, 0);
+          font-weight: 220;}
+        .Parrafo7{font-size: large; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+           color: rgb(255, 51, 0);
+          font-weight: 180;}
+        .Parrafo8{font-size: large; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+           color: rgb(0, 85, 182);
+          font-weight: 190;}
+        .Parrafo9{font-size: large; 
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-align: center;
+           color: rgb(182, 56, 56);
+          font-weight: 197;}
+        .Parrafo10{font-size: large; 
+            font-family: sans-serif;
+            text-align: center;
+           color: rgb(74, 65, 192);
+          font-weight: 190;}
+        .Parrafo11{font-size: large; 
+            font-family: unset;
+            text-align: center;
+           color: rgb(19, 67, 7);
+          font-weight: 220;}
+
+          .pht1{border-style: dotted;
+            text-align: justify;}
+
+            .pht2{border-style: double;
+             text-align: justify;}
+
+             .pht3{border-style: solid;
+             text-align: justify;}
+
+             .pht4{border-style: groove;
+               text-align: justify;}
+
+               .pht5{border-style: dashed;
+                 text-align: justify;}
+              .pht6{border-style: ridge;
+                   text-align: justify;}
+              .pht7{border-style: hidden;
+                     text-align: justify;}
+              .pht8{border-style: inherit;
+                       text-align: justify;}
+              .pht9{border-style: initial;
+                         text-align: justify;}
+              .pht10{border-style: inset;
+                           text-align: justify;}
+             .pht11{border-style: outset;
+                             text-align: justify;}
+              .pht12{border-style: solid;
+                               text-align: justify;}
+              .pht13{border-style: none;
+                                 text-align: justify;}
+             .pht14{border-style: dotted;
+                                   text-align: justify;}
+             .pht15{border-style: dotted;
+                                    text-align: justify;}
+                                   
+
+ tr{background-color: white;}
+
+
+ table{ border-color: black; background-color: black;}
+          

@@ -1,0 +1,68 @@
+h1{ color:aliceblue; 
+    font-size: 50px; 
+    background-color:#1d05fc; 
+    border: 30px solid #1d1b1b; 
+    text-align: center;
+    text-align:center; display:inline-block;animation-name: hola ; animation-duration:5s; animation-direction:ALTERNATE; animation-iteration-count:infinite;}
+
+    @keyframes hola {
+       from{
+          color: gold;
+ transform: rotate(20deg);
+ font-size: 60px;
+       }
+ 
+       to{
+          color:black;
+          font-size: 80px;
+          transform: scale(30deg);
+       }
+       
+    }
+ 
+
+    body{background-image: url(Foto83.jpg)}
+
+   table{ border-color: black; 
+    background-color: black;
+          justify-content: center;
+        align-items: center;}
+
+        .Parr1{font-size: large; 
+            font-family: initial;
+           color: rgb(89, 157, 0);}
+        .Parr2{font-size: large; 
+            font-family: sans-serif;
+           color: rgb(0, 135, 177);}
+        .Parr3{font-size: large; 
+            font-family: monospace;
+           color: rgb(0, 123, 61);}
+        .Parr4{font-size: large; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+           color: rgb(85, 104, 0);}
+        .Parr5{font-size: large; 
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+           color: rgb(41, 0, 80);}
+        .Parr6{font-size: large; 
+            font-family: cursive;
+           color: rgb(80, 24, 0);}
+        .Parr7{font-size: large; 
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+           color: rgb(0, 0, 0);}
+        .Parr8{font-size: large; 
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+           color: rgb(80, 0, 23);}
+        .Parr9{font-size: large; 
+            font-family: 'Times New Roman', Times, serif;
+           color: rgb(80, 47, 0);}
+        .Parr10{font-size: large; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+           color: rgb(255, 0, 0);}
+
+        tr{background-color: white;}
+   
+
+    table{ border-color: black; background-color: black;}
+   
+h2{ WIDTH:"10PX" ; HEIGHT:"50PX"
+}

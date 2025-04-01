@@ -1,0 +1,43 @@
+
+body {background-image: url(walls/fondo.jpg);
+background-size:cover;}
+
+h1 {font-family:impact,haettenscweiler,'Arial Narrow Bold', sans-serif;
+    font-size:150px; color:hwb(355 5% 26%); text-align:right; text-shadow:4px 4px rgb(0, 0, 0);}    
+    
+h2{font-family:'Trebuchet MS','Lucida Sans unicode', 'lucida grande','lucida sans', arial, sans-serif; 
+ font-size:20px; color:hwb(355 5% 26%); text-align:right}
+
+ menu{font-family:'Lucida Sans unicode', 'lucida grande','lucida sans', arial, sans-serif; 
+    font-size:20px; color:hwb(0 0% 100%); text-align:right}
+   
+
+h5{ font-family: Georgia, 'Times New Roman', Times, serif; font size:26px ; color: red;
+   border: black double ;
+   text-align:center; display:inline-block;animation-name: hola ; animation-duration:5s; animation-direction:ALTERNATE; animation-iteration-count:infinite;}
+
+   @keyframes hola {
+      from{
+         color: gold;
+transform: rotate(20deg);
+font-size: 60px;
+      }
+
+      to{
+         color:black;
+         font-size: 80px;
+         transform: scale(30deg);
+      }
+      
+   }
+
+
+
+
+
+ .polaroid{ background-color: black;
+    padding:10px 50px 10px;
+    border:1px solid #BFBFBF;
+    BOX-SHADOW: 10PX 10PX 30PX BLACK;
+     WIDTH:220PX; HEIGHT:229PXS;}
+

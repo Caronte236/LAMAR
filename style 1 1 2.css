@@ -1,0 +1,144 @@
+h1{ color:aliceblue; 
+    font-size: 50px; 
+    background-color:blue; 
+    border: 30px solid rgb(71, 199, 186); 
+    text-align: center;display:inline-block;animation-name: hola ; animation-duration:5s; animation-direction:ALTERNATE; animation-iteration-count:infinite;}
+
+    @keyframes hola {
+       from{
+          color: gold;
+ transform: rotate(20deg);
+ font-size: 60px;
+       }
+ 
+       to{
+          color:black;
+          font-size: 80px;
+          transform: scale(30deg);
+       }
+       
+    }
+
+    body{ background-image: url(walls/Foto16.jpg);
+         text-align: center;
+         font-size: large;
+         font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        color: rgb(36, 36, 139);
+    font-style: oblique;
+          background-attachment: local;
+        align-items: center;}
+
+   table{ border-color: black; 
+    background-color: black;
+          justify-content: center;
+        align-items: center;}
+
+        h3{font-size: large; 
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            text-align: center;
+           color: black;}
+           h4{font-size: large; 
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            text-align: center;
+           color: rgb(137, 16, 16);}
+           h5{font-size: large; 
+            font-family: Georgia, 'Times New Roman', Times, serif;
+            text-align: center;
+           color: rgb(110, 15, 99);}
+           h6{font-size: large; 
+            font-family: monospace;
+            text-align: center;
+           color: rgb(11, 32, 47);}
+           .polaraid{font-size: large; 
+            font-family: initial;
+            text-align: center;
+           color: rgb(255, 0, 0);}
+           .Dumb{font-size: large; 
+            font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+            text-align: center;
+           color: rgb(84, 205, 14);}
+           .Parrafo3{font-size: large; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+           color: rgb(76, 1, 1);
+          font-weight: 200;}
+          .Parrafo4{font-size: large; 
+            font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
+           color: rgb(44, 90, 33);
+          font-weight: 150;}
+          .Parrafo5{font-size: large; 
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            text-align: center;
+           color: rgb(94, 94, 2);
+          font-weight: 180;}
+          .Parrafo6{font-size: large; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+           color: rgb(0, 0, 0);
+          font-weight: 220;}
+          .Parrafo7{font-size: large; 
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            text-align: center;
+           color: rgb(41, 64, 76);
+          font-weight: 180;}
+          .Parrafo8{font-size: large; 
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: center;
+           color: rgb(100, 176, 81);
+          font-weight: 190;}
+          .Parrafo9{font-size: large; 
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            text-align: center;
+           color: rgb(101, 1, 116);
+          font-weight: 197;}
+          .Parrafo10{font-size: large; 
+            font-family: sans-serif;
+            text-align: center;
+           color: rgb(46, 4, 88);
+          font-weight: 190;}
+          .Parrafo11{font-size: large; 
+            font-family: unset;
+            text-align: center;
+           color: rgb(19, 67, 7);
+          font-weight: 220;}
+
+          .sur{border-style: dotted;
+               text-align: justify;}
+
+               .north{border-style: double;
+                text-align: justify;}
+
+                .dans{border-style: solid;
+                text-align: justify;}
+
+                .dieg{border-style: groove;
+                  text-align: justify;}
+
+                  .wals{border-style: dashed;
+                    text-align: justify;}
+                    .wate{border-style: ridge;
+                      text-align: justify;}
+                      .pref{border-style: hidden;
+                        text-align: justify;}
+                        .dud{border-style: inherit;
+                          text-align: justify;}
+                          .sao{border-style: initial;
+                            text-align: justify;}
+                            .pot{border-style: inset;
+                              text-align: justify;}
+                              .er{border-style: outset;
+                                text-align: justify;}
+                                .ggs{border-style: solid;
+                                  text-align: justify;}
+                                  .turron{border-style: none;
+                                    text-align: justify;}
+                                    .ya{border-style: dotted;
+                                      text-align: justify;}
+                                      
+
+    tr{background-color: white;}
+   
+
+    table{ border-color: black; background-color: black;}
+
